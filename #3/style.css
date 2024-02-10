@@ -1,34 +1,18 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Poppins:wght@600&display=swap');
-
-
-
-body {
-  font-family: 'Roboto', sans-serif;
+/* Add your custom CSS here */
+.hero-section {
+  min-height: 100vh;
 }
 
-.p {
-  line-height: 1.8;
+.bg-cover {
+  background-size: cover;
 }
 
-h1 {
-  font-family: 'Nunito', sans-serif;
+.bg-center {
+  background-position: center;
 }
 
-img {
-  max-width: 100%;
-  min-width: 20%;
+@media (min-width: 800px) {
+  .max-w-6xl {
+    max-width: 800px; /* Adjust the max-width based on your design */
+  }
 }
-ul {
-  list-style-type: none;
-}
-.heading {
-  font-family: 'Cabin', sans-serif;
-  font-weight: 800;
-}
-
-.text {
-  font-family: 'Roboto', sans-serif;
-  font-weight: 400;
-}
-
- 
