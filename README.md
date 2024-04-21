@@ -1,4 +1,5 @@
-Frontend Mentor - Huddle Landing Page 
+Live Link: https://6624e0c9b7face8597c03b03--glistening-pie-ecc940.netlify.app
+Frontend Mentor - Huddle Landing Page
 Design Preview
 
 Welcome! 👋 Thanks for taking on this front-end coding challenge. Frontend Mentor challenges are designed to help you enhance your coding skills by working on realistic projects.
